@@ -1,0 +1,7 @@
+You may notice that there are two versions of givens_main and given_rot.
+
+givens_main2 and givens_rot2 are implemented as you wanted it, where each rotation elimintaes all zeros at once. The test run on this implemntation as well. I decided to keep the other in the code mainly for my self so I could compare and contrast the two different methods of implementation.
+
+
+To Run: 
+python3 givens.py
